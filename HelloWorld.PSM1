@@ -23,7 +23,7 @@ Function Get-HelloWorld {
 Function Get-HelloWorld {
     [CmdletBinding()]
     Param (
-        [string]$Name = "Melissa Araujo"
+        [string]$Namy = "Melissa Araujo"
     )
 
     "Hello World from $Name"
