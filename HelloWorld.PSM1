@@ -26,7 +26,7 @@ Function Get-HelloWorld {
         [string]$Namy = "Melissa Araujo"
     )
 
-    "Hello World from $Name"
+    "Hello World from $Namy"
 }
 
 Export-ModuleMember -Function Get-HelloWorld
